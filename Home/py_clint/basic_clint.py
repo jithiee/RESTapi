@@ -7,5 +7,6 @@ print(resp.headers)
 print(resp.text)
 
 print(resp.status_code)
+print(resp.json())
 
 
